@@ -437,11 +437,13 @@ p a,
   box-shadow: 0 0 15px rgba(0,0,0,0.8);
 }
 .about .right-col { /* added .about for this more specific case */
-  margin: 124px auto;
+  /* margin: 124px auto; original before mobitv */
+  margin: 110px auto;
   font-size: 18px;
 }
 .dreams-list {
-  margin: 70px 30px;
+  /* margin: 70px 30px; original before mobitv */
+  margin: 10px 30px;
   font-size: 18px;
 }
 .dreams-list p {
